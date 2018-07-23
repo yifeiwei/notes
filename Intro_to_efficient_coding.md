@@ -16,7 +16,7 @@ Efficient coding maximize extracted input information while limiting neural codi
 * receptive fields are filters
 
 Example: Ocular coding
-* ![](http://latex.codecogs.com/gif.latex?\\S^L): image in left eye.
+* ![](http://latex.codecogs.com/gif.latex?\\ S^L): image in left eye.
 * `$S^R$`: image in right eye.
 * eyes->LGN->V1
 A  V1 neuron's response output:
