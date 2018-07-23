@@ -1,4 +1,4 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
 # Introduction to Efficient coding
 This part of notes is based on a 51 min long [video lecture](https://www.youtube.com/watch?v=NJsHsUwfNb8) given by [Li Zhaoping](http://www0.cs.ucl.ac.uk/staff/Zhaoping.Li) on efficient coding. It comes with Chapter 3 of the book ["Understanding Vision: theory, model and data"](http://www0.cs.ucl.ac.uk/staff/Zhaoping.Li/VisionBook.html)
